@@ -1,0 +1,16 @@
+ Volume in drive D is Volume
+ Volume Serial Number is EE06-39C5
+
+ Directory of D:\HTMLCSS
+
+06/11/2020  01:22 AM    <DIR>          .
+06/11/2020  01:22 AM    <DIR>          ..
+05/02/2020  04:22 PM    <DIR>          blod Post
+03/10/2015  07:43 PM    <DIR>          blog post
+06/11/2020  01:22 AM                 0 farhad.txt
+05/04/2020  05:36 PM    <DIR>          omnifood
+05/04/2020  01:35 PM    <DIR>          project
+05/02/2020  03:17 PM    <DIR>          section1
+03/23/2015  03:52 PM    <DIR>          __MACOSX
+               1 File(s)              0 bytes
+               8 Dir(s)  371,003,387,904 bytes free
